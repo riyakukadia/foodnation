@@ -1,0 +1,95 @@
+/*navbar*/
+.sidenav
+{ width: 150px;
+	height: 100%; 
+padding-top: 20px;
+top:0;
+left: 0;
+background-color: #0F265F;
+position: fixed;
+
+}
+.logo {
+size: 5px;
+border-radius: 50%;
+margin-left: 15px;
+}
+section{
+	position: fixed;
+	bottom: 10px;
+}
+
+a {
+  padding: 32px 8px 16px 16px;
+  text-decoration: none;
+  font-size: 100%;
+  color: #818181;
+  display: block;
+}
+/*mainpage*/
+body{
+	margin-left: 140px;
+	background-image: url(food.jpg);
+	height: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	
+	
+}
+#headline{
+	position: relative;
+	left:450px;
+	bottom:400px;
+	font-family: montserrat;
+	font-size: 30px;
+
+}
+
+/*buttons*/
+#explore{
+	position: relative;
+	color: #FB265F !important;
+	left:660px;
+	bottom:400px;
+	
+}
+#login{
+	position: relative;
+	left: 1000px;
+	bottom: 660px;
+	color: #FB265F !important;
+}
+
+#day{
+	position: relative;
+	bottom: 620px;
+	color: #FB265F !important;
+	left: 740px;
+}
+/*bottom screen*/
+h2{
+	color: #FB265F;
+	position: absolute;
+	left: 100px;
+	bottom: 300px; 
+	margin-bottom: 20px;
+}
+.card-deck{
+	position: absolute;
+	left: 250px;
+	top: 400px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
